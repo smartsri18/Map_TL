@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096704256084",
+    "firebase_url": "https://shaped-aegis-252716.firebaseio.com",
+    "project_id": "shaped-aegis-252716",
+    "storage_bucket": "shaped-aegis-252716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096704256084:android:639114d8e3f881cde8a5c1",
+        "android_client_info": {
+          "package_name": "com.example.map_tl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096704256084-3f7bmakh95ui4q3b626g75fvj3t443fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt69Y0PCUtkCb2n84ft9YvaYwlJiSA3lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096704256084-3f7bmakh95ui4q3b626g75fvj3t443fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
