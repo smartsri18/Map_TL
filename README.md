@@ -1,19 +1,17 @@
 # Map_TL
-My first Android application **Map_TL**. This application tracks the user location based on the location co-ordinate fetched by the location Manager.
-Main objective of this appliaction is to track user's location and share that information only to trusted user. 
-This Application is developed using **Google Map API** and **firebase API**. 
+My first Android Application : **Map_TL**. This app fetches the location of the user, who may be your family member or friends based on the authenticated user email-ID in firebase database, if and only if that user shares or update their recent location to this application. 
 
-### Technologies used
+# Map_TL technologies
 - Google Map API
-- Firebase
-- Android Studio
+- Firebase API
 
-### Modules
-- Signup Activity
+# Map_TL Activity
 - Login Activity
+- Signup Activity
+- User Activity
 - Map Activity
-- User Activiy
 
-### Working-on
-- Enabling the Sharing time : To limit sharing time usage
-- Managing real time location (Continous location tracking)
+# Future Enchancements
+- Managing user location 
+- Continuous Real-time location sharing
+- User Profile
